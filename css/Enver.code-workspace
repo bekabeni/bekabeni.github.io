@@ -1,0 +1,23 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../Lesson_2"
+	},
+	{
+		"path": "../../Lesson_3"
+	},
+	{
+		"path": "../../../../anime"
+	},
+	{
+		"path": "../../../Chapter_3/Lesson_1"
+	},
+	{
+		"path": "../../.."
+	}
+],
+  "settings": {}
+}
